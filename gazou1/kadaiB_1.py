@@ -9,6 +9,6 @@ for i in range(9):
     
     # 画像の表示
     cv2.imshow("Image", img)
-    cv2.waitKey(0) #5000ミリ秒（5秒）
+    cv2.waitKey(5000) #5000ミリ秒（5秒）
 
 
